@@ -1,0 +1,35 @@
+{
+  "name": "@notiz/cookie-monster",
+  "description": "A customizable Cookie Consent Banner 🍪 for Angular.",
+  "version": "0.4.0",
+  "keywords": [
+    "angular",
+    "tailwindcss",
+    "cookie",
+    "dsgvo"
+  ],
+  "author": "Gary Großgarten",
+  "contributors": [
+    {
+      "name": "Gary Großgarten"
+    },
+    {
+      "name": "Marc Stammerjohann"
+    }
+  ],
+  "peerDependencies": {
+    "@angular/common": ">=14.0.0",
+    "@angular/core": ">=14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notiz-dev/cookiemonster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/notiz-dev/cookiemonster/issues"
+  },
+  "homepage": "https://github.com/notiz-dev/cookiemonster#readme"
+}
